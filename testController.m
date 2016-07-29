@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [nil selected];
+    
+    [nil selected];
 }
 
 - (void)didReceiveMemoryWarning {
